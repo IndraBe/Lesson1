@@ -1,0 +1,16 @@
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\bin\Debug\net5.0\Array_lesson.exe
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\bin\Debug\net5.0\Array_lesson.deps.json
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\bin\Debug\net5.0\Array_lesson.runtimeconfig.json
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\bin\Debug\net5.0\Array_lesson.runtimeconfig.dev.json
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\bin\Debug\net5.0\Array_lesson.dll
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\bin\Debug\net5.0\ref\Array_lesson.dll
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\bin\Debug\net5.0\Array_lesson.pdb
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\Array_lesson.csproj.AssemblyReference.cache
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\Array_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\Array_lesson.AssemblyInfoInputs.cache
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\Array_lesson.AssemblyInfo.cs
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\Array_lesson.csproj.CoreCompileInputs.cache
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\Array_lesson.dll
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\ref\Array_lesson.dll
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\Array_lesson.pdb
+C:\C# projects\Lesson 5\Array_lesson\Array_lesson\obj\Debug\net5.0\Array_lesson.genruntimeconfig.cache

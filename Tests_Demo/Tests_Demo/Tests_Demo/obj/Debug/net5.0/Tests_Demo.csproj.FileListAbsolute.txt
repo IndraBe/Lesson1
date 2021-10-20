@@ -1,0 +1,16 @@
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\bin\Debug\net5.0\Tests_Demo.exe
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\bin\Debug\net5.0\Tests_Demo.deps.json
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\bin\Debug\net5.0\Tests_Demo.runtimeconfig.json
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\bin\Debug\net5.0\Tests_Demo.runtimeconfig.dev.json
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\bin\Debug\net5.0\Tests_Demo.dll
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\bin\Debug\net5.0\ref\Tests_Demo.dll
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\bin\Debug\net5.0\Tests_Demo.pdb
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\Tests_Demo.csproj.AssemblyReference.cache
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\Tests_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\Tests_Demo.AssemblyInfoInputs.cache
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\Tests_Demo.AssemblyInfo.cs
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\Tests_Demo.csproj.CoreCompileInputs.cache
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\Tests_Demo.dll
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\ref\Tests_Demo.dll
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\Tests_Demo.pdb
+C:\C# projects\Tests_Demo\Tests_Demo\Tests_Demo\obj\Debug\net5.0\Tests_Demo.genruntimeconfig.cache
